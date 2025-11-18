@@ -2,21 +2,27 @@
 Aplikasi Flutter untuk menampilkan data buah, berita, dan akun pengguna. Aplikasi ini menggunakan struktur MVC sederhana (Model – Controller – View) agar kode rapi, modular, dan mudah dikembangkan.
 
 <img width="619" height="898" alt="Screenshot 2025-11-18 132925" src="https://github.com/user-attachments/assets/c0968ffb-2992-4a5a-ae2d-6139b4d8f2b9" />
+
 merupakan halaman splash screen dari aplikasi fruitstore
 
 <img width="621" height="902" alt="Screenshot 2025-11-18 132914" src="https://github.com/user-attachments/assets/79310a51-91cf-4aee-8d51-d04ecb7c6c69" />
+
 merupakan halam dashboard dari fruit store
 
 <img width="623" height="896" alt="Screenshot 2025-11-18 132937" src="https://github.com/user-attachments/assets/370d8194-d08c-44b2-9eac-6d563bc2c0b8" />
+
 halaman tersebut merupakan halamn untuk menambah jualan buah yang baru 
 
 <img width="625" height="895" alt="Screenshot 2025-11-18 132948" src="https://github.com/user-attachments/assets/bd7e3c8a-63bb-430f-8da3-e8f545afbef9" />
+
 halaman tersebut merupakan halaman saat user memilih buat yang akan dibelinya ada penjelasan atau deskripsi tentang buahnya harga dll
 
 <img width="622" height="905" alt="Screenshot 2025-11-18 133112" src="https://github.com/user-attachments/assets/52359231-90e0-44ed-8f61-54c243a4e69a" />
+
 merupakan halaman berita/news yakni berisi tentang berbagai macam berita tentang buah 
 
 <img width="617" height="906" alt="Screenshot 2025-11-18 133347" src="https://github.com/user-attachments/assets/4ef1daa3-9f0f-44bc-a9d2-ede58bf6172a" />
+
 merupakan halaman akun/user berisi keterangan tang user atau owner dari fruite store
 
 🥭 Deskripsi Singkat
